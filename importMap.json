@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "react": "https://cdn.skypack.dev/react",
+    "react-dom/client": "https://cdn.skypack.dev/react-dom/client"
+  }
+}
